@@ -1,0 +1,1 @@
+# 32_tanish_python_lab_manuall_23_27
