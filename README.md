@@ -3,7 +3,7 @@ drive link of video of python-
 https://drive.google.com/drive/folders/1u4ge-Mtjqcf0rjc-PaBnxcwgtinx30Co?usp=share_link
 
 
-Numbers 1 to 20 problem question statement name to identify.
+Numbers 1 to 20 class and obj problem question statement name to identify.
 
 1- Python program to create a person class. Include attributes like name,country and date of birth. Implement a method to determine the person's age.
 
